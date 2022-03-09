@@ -1,0 +1,24 @@
+.notes-card{
+    background:#FFF;
+    border-radius:4px;
+    border:1px solid #ddd;
+    margin: 1px;
+ }
+
+ .notes-card .head{
+    padding:1rem;
+    border-bottom:2px solid #ddd;
+}
+
+.notes-card .body{
+    padding:1rem;
+    font-size:14px;
+    }
+.notes-card .head h1{
+    margin: 0;
+}
+.wrapper{
+    
+    display: flex;
+    flex-direction: row;
+}
